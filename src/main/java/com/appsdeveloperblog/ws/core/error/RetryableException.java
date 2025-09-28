@@ -1,4 +1,4 @@
-package com.appsdeveloperblog.payments.ws.core.error;
+package com.appsdeveloperblog.ws.core.error;
 
 public class RetryableException extends RuntimeException {
     public RetryableException(Throwable cause) {
